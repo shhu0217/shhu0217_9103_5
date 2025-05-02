@@ -3,7 +3,13 @@
 
 ##project description
 
-[Link Text](https://www.google.com)
+**This is bold**
+_This is italics_
+
+1.List Item 1
+2.List Item 2
+
+[A link to google](https://www.google.com)
 
 ![An image of a cat](https://placecats.com/200/300)
 
